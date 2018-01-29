@@ -1,0 +1,12 @@
+div {
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 300px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+ul {
+  margin-right: 50px;
+  list-style: none;
+}
