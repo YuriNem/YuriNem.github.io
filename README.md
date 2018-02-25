@@ -1,3 +1,6 @@
 # YuriNem.github.io
 ### My Resume
-https://getbootstrap.com/
+### [Page](https://yurinem.github.io/)
+
+Used:
+* [Bootstrap](https://getbootstrap.com/)
