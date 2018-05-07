@@ -1,5 +1,5 @@
 # YuriNem.github.io
-### My Resume
+### My resume.
 ### [Page](https://yurinem.github.io/)
 
 Used:
