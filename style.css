@@ -10,6 +10,7 @@ body {
 
 p {
   margin-bottom: 12px;
+  text-align: justify;
 }
 
 h1, h3 {
@@ -34,4 +35,12 @@ ul {
   list-style: none;
   text-align: center;
   margin-right: 40px;
+}
+
+#footer {
+  text-align: center;
+}
+
+#footer p {
+  text-align: center;
 }
