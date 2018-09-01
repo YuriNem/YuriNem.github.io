@@ -1,6 +1,8 @@
-# YuriNem.github.io
-### My resume.
-### [Page](https://yurinem.github.io/)
+# Basic-React-Webpack
+### Basic webpack configuration for React.
 
 Used:
-* [Bootstrap](https://getbootstrap.com/)
+* [webpack](https://webpack.js.org/)
+* [Babel](https://babeljs.io/)
+* [node-sass](https://github.com/sass/node-sass)
+* [React](https://reactjs.org/)
